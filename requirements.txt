@@ -1,0 +1,9 @@
+beautifulsoup4==4.5.1
+bs4==0.0.1
+EasyProcess==0.2.2
+greenlet==0.4.10
+msgpack-python==0.4.8
+pg8000==1.10.6
+PyVirtualDisplay==0.2
+selenium==2.53.6
+six==1.10.0
